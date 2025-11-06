@@ -1,13 +1,15 @@
-# XLeRobot 한국어 학습 가이드 📚
+# 🏆 GitHub 로봇 저장소 TOP 2위! XLeRobot 완전 학습 가이드 📚
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Korean](https://img.shields.io/badge/lang-한국어-red.svg)](README.md)
+[![GitHub Stars](https://img.shields.io/github/stars/Vector-Wangel/XLeRobot?style=social)](https://github.com/Vector-Wangel/XLeRobot)
+[![Robot Rank](https://img.shields.io/badge/GitHub%20Robot%20Repos-TOP%202-brightgreen.svg)](https://github.com/topics/robot)
 
-XLeRobot 프로젝트를 체계적으로 학습하기 위한 완전한 한국어 가이드입니다.
+**GitHub 로봇 관련 저장소 TOP 100 중 2위**를 차지한 [XLeRobot](https://github.com/Vector-Wangel/XLeRobot) 프로젝트를 체계적으로 학습하기 위한 완전한 한국어 가이드입니다.
 
 ## 📖 소개
 
-이 가이드는 [XLeRobot](https://github.com/Vector-Wangel/XLeRobot) 프로젝트를 처음 접하는 분들부터 고급 기능을 개발하고자 하는 분들까지 체계적으로 학습할 수 있도록 구성되었습니다.
+이 가이드는 **GitHub 로봇 관련 저장소 TOP 100 중 2위**를 차지한 [XLeRobot](https://github.com/Vector-Wangel/XLeRobot) 프로젝트를 처음 접하는 분들부터 고급 기능을 개발하고자 하는 분들까지 체계적으로 학습할 수 있도록 구성되었습니다.
 
 **XLeRobot**은 아이폰보다 저렴한 가격($660부터)으로 만들 수 있는 듀얼암 모바일 가정용 로봇입니다.
 
