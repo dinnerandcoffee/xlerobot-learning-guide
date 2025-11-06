@@ -580,6 +580,6 @@ class Odometry:
 ## 11. 참고 자료
 
 - [Omni Wheel Kinematics](https://robohub.org/omnidirectional-wheels/)
-- [소스 코드](../examples/4_xlerobot_teleop_keyboard.py)
-- [MobileBase 클래스](../src/robots/mobile_base.py)
-- [옴니휠 URDF](../../hardware/)
+- [소스 코드](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/examples/4_xlerobot_teleop_keyboard.py)
+- [MobileBase 클래스](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/src/robots/mobile_base.py)
+- [옴니휠 URDF](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/../hardware)

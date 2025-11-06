@@ -415,9 +415,9 @@ tree -L 2 ~/XLeRobot
 
 환경 설정이 완료되었다면:
 
-1. **시뮬레이션 학습** → [3장. 시뮬레이션 환경](../03_simulation/README.md)
-2. **하드웨어 이해** → [2장. 하드웨어 구성](../02_hardware/README.md)
-3. **제어 코드 탐색** → [4장. 소프트웨어 제어](../04_software_control/README.md)
+1. **시뮬레이션 학습** → [3장. 시뮬레이션 환경](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/03_simulation/README.md)
+2. **하드웨어 이해** → [2장. 하드웨어 구성](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/02_hardware/README.md)
+3. **제어 코드 탐색** → [4장. 소프트웨어 제어](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/04_software_control/README.md)
 
 ---
 
@@ -447,4 +447,4 @@ python xlerobot_mujoco.py
 
 ---
 
-[← 1.3 기술 스택](03_tech_stack.md) | [다음: 2장. 하드웨어 구성 →](../02_hardware/README.md)
+[← 1.3 기술 스택](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/01_overview/03_tech_stack.md) | [다음: 2장. 하드웨어 구성 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/02_hardware/README.md)

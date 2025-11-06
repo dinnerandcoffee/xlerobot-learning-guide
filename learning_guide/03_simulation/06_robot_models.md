@@ -813,9 +813,9 @@ python validate_model.py
 
 ### 다음 단계
 
-- [4장 하드웨어 →](../04_hardware/README.md): 실제 로봇 조립
-- [5장 소프트웨어 →](../05_software/README.md): 실제 로봇 제어 코드
+- [4장 하드웨어 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/04_hardware/README.md): 실제 로봇 조립
+- [5장 소프트웨어 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/05_software/README.md): 실제 로봇 제어 코드
 
 ---
 
-[← 3.5 ManiSkill](05_maniskill.md) | [3장 목차](README.md) | [다음: 4장 하드웨어 →](../04_hardware/README.md)
+[← 3.5 ManiSkill](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/03_simulation/05_maniskill.md) | [3장 목차](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/03_simulation/README.md) | [다음: 4장 하드웨어 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/04_hardware/README.md)

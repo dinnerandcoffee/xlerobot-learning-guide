@@ -272,8 +272,8 @@ python run_xlerobot_sim.py
 
 ### 다음 단계
 
-[3.2 MuJoCo 시뮬레이션 시작하기 →](02_mujoco_setup.md)에서 실제로 MuJoCo를 설치하고 실행해봅니다!
+[3.2 MuJoCo 시뮬레이션 시작하기 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/03_simulation/02_mujoco_setup.md)에서 실제로 MuJoCo를 설치하고 실행해봅니다!
 
 ---
 
-[← 3장 목차](README.md) | [다음: 3.2 MuJoCo 설정 →](02_mujoco_setup.md)
+[← 3장 목차](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/03_simulation/README.md) | [다음: 3.2 MuJoCo 설정 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/03_simulation/02_mujoco_setup.md)

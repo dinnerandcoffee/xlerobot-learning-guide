@@ -1094,4 +1094,4 @@ class ConnectionRecovery {
 
 ---
 
-[← 7.2 Quest3 설정](02_quest3_setup.md) | [다음: 7.4 VR 인터페이스 →](04_vr_interface.md)
+[← 7.2 Quest3 설정](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/07_vr_control/02_quest3_setup.md) | [다음: 7.4 VR 인터페이스 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/07_vr_control/04_vr_interface.md)

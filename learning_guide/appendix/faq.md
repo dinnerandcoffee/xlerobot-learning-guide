@@ -185,7 +185,7 @@ XLeRobot은 ROS 없이도 작동합니다.
 
 ### Q20. 시뮬레이션이 실행되지 않아요
 
-**A**: [트러블슈팅 가이드](troubleshooting.md) 참조
+**A**: [트러블슈팅 가이드](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/appendix/troubleshooting.md) 참조
 - OpenGL 라이브러리 확인
 - GLFW 설치 확인
 - 가상환경 활성화 확인
@@ -198,7 +198,7 @@ XLeRobot은 ROS 없이도 작동합니다.
 3. 모터 ID 설정 확인
 4. 시리얼 포트 권한 확인
 
-상세한 해결책은 [트러블슈팅](troubleshooting.md)에서 확인하세요.
+상세한 해결책은 [트러블슈팅](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/appendix/troubleshooting.md)에서 확인하세요.
 
 ---
 
@@ -207,7 +207,7 @@ XLeRobot은 ROS 없이도 작동합니다.
 ### Q22. 프로젝트에 기여하고 싶어요
 
 **A**: 
-1. [CONTRIBUTING.md](../../CONTRIBUTING.md) 읽기
+1. [CONTRIBUTING.md](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/../CONTRIBUTING.md) 읽기
 2. GitHub에서 이슈 확인
 3. PR 제출
 4. Discord에서 논의
@@ -229,4 +229,4 @@ XLeRobot은 ROS 없이도 작동합니다.
 
 ---
 
-[← A. 트러블슈팅](troubleshooting.md) | [다음: C. 용어집 →](glossary.md)
+[← A. 트러블슈팅](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/appendix/troubleshooting.md) | [다음: C. 용어집 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/appendix/glossary.md)

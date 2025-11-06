@@ -202,4 +202,4 @@ export MUJOCO_GL=glfw
 
 ---
 
-[← 부록 목차](README.md) | [다음: B. FAQ →](faq.md)
+[← 부록 목차](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/appendix/README.md) | [다음: B. FAQ →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/appendix/faq.md)

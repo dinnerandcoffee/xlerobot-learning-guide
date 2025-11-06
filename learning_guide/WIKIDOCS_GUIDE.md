@@ -126,12 +126,12 @@ XLeRobot 학습 가이드
 
 **변경 전**:
 ```markdown
-[다음: 1.2 프로젝트 구조 →](02_project_structure.md)
+[다음: 1.2 프로젝트 구조 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/02_project_structure.md)
 ```
 
 **변경 후**:
 ```markdown
-[다음: 1.2 프로젝트 구조 →](/위키독스페이지번호)
+[다음: 1.2 프로젝트 구조 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide//위키독스페이지번호)
 ```
 
 ### 7단계: 출판

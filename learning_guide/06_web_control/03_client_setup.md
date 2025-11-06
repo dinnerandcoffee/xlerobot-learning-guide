@@ -710,4 +710,4 @@ export default function RobotControl() {
 
 ---
 
-[← 6.2 서버 API](02_server_api.md) | [다음: 6.4 원격 제어 구현 →](04_remote_control.md)
+[← 6.2 서버 API](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/06_web_control/02_server_api.md) | [다음: 6.4 원격 제어 구현 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/06_web_control/04_remote_control.md)

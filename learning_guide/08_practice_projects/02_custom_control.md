@@ -1263,4 +1263,4 @@ class GestureController:
 
 ---
 
-[← 8.1 첫 시뮬레이션](01_first_simulation.md) | [다음: 8.3 픽앤플레이스 →](03_pick_and_place.md)
+[← 8.1 첫 시뮬레이션](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/08_practice_projects/01_first_simulation.md) | [다음: 8.3 픽앤플레이스 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/08_practice_projects/03_pick_and_place.md)

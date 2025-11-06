@@ -268,8 +268,8 @@ XLeRobot 학습 및 개발에 유용한 참고 자료 모음입니다.
 
 ---
 
-**계속 업데이트됩니다!** 유용한 자료를 발견하시면 [기여](../../CONTRIBUTING.md)해주세요.
+**계속 업데이트됩니다!** 유용한 자료를 발견하시면 [기여](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/../CONTRIBUTING.md)해주세요.
 
 ---
 
-[← C. 용어집](glossary.md) | [학습 가이드 홈 →](../README.md)
+[← C. 용어집](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/appendix/glossary.md) | [학습 가이드 홈 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/README.md)

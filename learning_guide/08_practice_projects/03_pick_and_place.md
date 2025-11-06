@@ -1204,4 +1204,4 @@ class GraspNet(nn.Module):
 
 ---
 
-[← 8.2 커스텀 제어](02_custom_control.md) | [다음: 8.4 자율 네비게이션 →](04_navigation.md)
+[← 8.2 커스텀 제어](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/08_practice_projects/02_custom_control.md) | [다음: 8.4 자율 네비게이션 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/08_practice_projects/04_navigation.md)

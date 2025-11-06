@@ -12,11 +12,11 @@ YOLO를 활용한 객체 감지 및 비전 기반 로봇 제어를 학습합니�
 
 ## 📖 하위 섹션
 
-1. [YOLO 객체 감지 기초](01_yolo_basics.md)
-2. [실시간 객체 추적](02_object_tracking.md)
-3. [세그멘테이션 활용](03_segmentation.md)
-4. [비전 기반 로봇 제어](04_vision_control.md)
-5. [핸드 카메라 활용](05_hand_camera.md)
+1. [YOLO 객체 감지 기초](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/05_computer_vision/01_yolo_basics.md)
+2. [실시간 객체 추적](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/05_computer_vision/02_object_tracking.md)
+3. [세그멘테이션 활용](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/05_computer_vision/03_segmentation.md)
+4. [비전 기반 로봇 제어](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/05_computer_vision/04_vision_control.md)
+5. [핸드 카메라 활용](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/05_computer_vision/05_hand_camera.md)
 
 ## 🎯 학습 목표
 
@@ -36,4 +36,4 @@ YOLO를 활용한 객체 감지 및 비전 기반 로봇 제어를 학습합니�
 
 ---
 
-[← 4장. 소프트웨어 제어](../04_software_control/README.md) | [다음: 5.1 YOLO 기초 →](01_yolo_basics.md)
+[← 4장. 소프트웨어 제어](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/04_software_control/README.md) | [다음: 5.1 YOLO 기초 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/05_computer_vision/01_yolo_basics.md)

@@ -482,5 +482,5 @@ def print_status(self):
 ## 10. 참고 자료
 
 - [Dual Arm Manipulation (MIT)](http://manipulation.csail.mit.edu/bimanual.html)
-- [소스 코드](../examples/2_dual_so100_keyboard_ee_control.py)
-- [SO100Arm 클래스](../src/robots/so100.py)
+- [소스 코드](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/examples/2_dual_so100_keyboard_ee_control.py)
+- [SO100Arm 클래스](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/src/robots/so100.py)

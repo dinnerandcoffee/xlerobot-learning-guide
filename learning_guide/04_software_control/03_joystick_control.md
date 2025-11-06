@@ -606,7 +606,7 @@ for i in range(joystick.get_numbuttons()):
 
 ## 참고 자료
 
-- [5_xlerobot_teleop_xbox.py 전체 코드](../../software/examples/5_xlerobot_teleop_xbox.py)
+- [5_xlerobot_teleop_xbox.py 전체 코드](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/../software/examples/5_xlerobot_teleop_xbox.py)
 - [Pygame 조이스틱 문서](https://www.pygame.org/docs/ref/joystick.html)
 - [Xbox 컨트롤러 사양](https://support.xbox.com/help/hardware-network/controller/xbox-wireless-controller)
 - [xboxdrv 문서](https://xboxdrv.gitlab.io/)

@@ -492,7 +492,7 @@ if left_input['minus']:
 
 ## 참고 자료
 
-- [6_so100_joycon_ee_control.py](../../software/examples/6_so100_joycon_ee_control.py)
-- [7_xlerobot_teleop_joycon.py](../../software/examples/7_xlerobot_teleop_joycon.py)
-- [joyconrobotics 라이브러리](../../software/joyconrobotics/)
+- [6_so100_joycon_ee_control.py](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/../software/examples/6_so100_joycon_ee_control.py)
+- [7_xlerobot_teleop_joycon.py](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/../software/examples/7_xlerobot_teleop_joycon.py)
+- [joyconrobotics 라이브러리](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/../software/joyconrobotics)
 - [Nintendo Switch Joycon 사양](https://en.wikipedia.org/wiki/Joy-Con)

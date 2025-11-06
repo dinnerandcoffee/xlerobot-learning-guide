@@ -105,4 +105,4 @@ XLeRobot은 **Apache 2.0 라이선스**로 제공됩니다.
 
 ---
 
-[← 1장 목차](README.md) | [다음: 1.2 프로젝트 구조 →](02_project_structure.md)
+[← 1장 목차](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/01_overview/README.md) | [다음: 1.2 프로젝트 구조 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/01_overview/02_project_structure.md)

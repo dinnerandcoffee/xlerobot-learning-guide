@@ -902,4 +902,4 @@ def optimize_simulation():
 
 ---
 
-[← 8장 메인](README.md) | [다음: 8.2 커스텀 제어 스크립트 →](02_custom_control.md)
+[← 8장 메인](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/08_practice_projects/README.md) | [다음: 8.2 커스텀 제어 스크립트 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/08_practice_projects/02_custom_control.md)

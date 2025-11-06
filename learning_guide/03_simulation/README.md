@@ -12,12 +12,12 @@
 
 ## 📖 하위 섹션
 
-1. [시뮬레이션 개요](01_simulation_overview.md)
-2. [MuJoCo 시뮬레이션 시작하기](02_mujoco_setup.md)
-3. [MuJoCo 키보드 제어](03_mujoco_control.md)
-4. [Isaac Sim 설정](04_isaac_sim.md)
-5. [ManiSkill 환경](05_maniskill.md)
-6. [URDF/MJCF 모델 이해](06_robot_models.md)
+1. [시뮬레이션 개요](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/03_simulation/01_simulation_overview.md)
+2. [MuJoCo 시뮬레이션 시작하기](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/03_simulation/02_mujoco_setup.md)
+3. [MuJoCo 키보드 제어](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/03_simulation/03_mujoco_control.md)
+4. [Isaac Sim 설정](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/03_simulation/04_isaac_sim.md)
+5. [ManiSkill 환경](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/03_simulation/05_maniskill.md)
+6. [URDF/MJCF 모델 이해](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/03_simulation/06_robot_models.md)
 
 ## 🎯 학습 목표
 
@@ -51,4 +51,4 @@
 
 ---
 
-[← 2장. 하드웨어 구성](../02_hardware/README.md) | [다음: 3.1 시뮬레이션 개요 →](01_simulation_overview.md)
+[← 2장. 하드웨어 구성](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/02_hardware/README.md) | [다음: 3.1 시뮬레이션 개요 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/03_simulation/01_simulation_overview.md)

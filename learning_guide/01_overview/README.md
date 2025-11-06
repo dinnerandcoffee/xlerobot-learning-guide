@@ -11,10 +11,10 @@
 
 ## 📖 하위 섹션
 
-1. [XLeRobot이란?](01_what_is_xlerobot.md)
-2. [프로젝트 구조 이해하기](02_project_structure.md)
-3. [기술 스택 및 의존성](03_tech_stack.md)
-4. [개발 환경 설정](04_dev_environment.md)
+1. [XLeRobot이란?](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/01_overview/01_what_is_xlerobot.md)
+2. [프로젝트 구조 이해하기](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/01_overview/02_project_structure.md)
+3. [기술 스택 및 의존성](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/01_overview/03_tech_stack.md)
+4. [개발 환경 설정](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/01_overview/04_dev_environment.md)
 
 ## 🎯 학습 목표
 
@@ -26,4 +26,4 @@
 
 ---
 
-[다음: 1.1 XLeRobot이란? →](01_what_is_xlerobot.md)
+[다음: 1.1 XLeRobot이란? →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/01_overview/01_what_is_xlerobot.md)

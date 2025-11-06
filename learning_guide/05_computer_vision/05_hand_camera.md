@@ -615,4 +615,4 @@ class PegInHole:
 
 ---
 
-[← 5.4 비전 기반 로봇 제어](04_vision_control.md) | [목차로 돌아가기](README.md)
+[← 5.4 비전 기반 로봇 제어](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/05_computer_vision/04_vision_control.md) | [목차로 돌아가기](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/05_computer_vision/README.md)

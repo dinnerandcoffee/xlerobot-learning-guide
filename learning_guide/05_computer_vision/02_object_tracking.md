@@ -557,4 +557,4 @@ while cap.isOpened():
 
 ---
 
-[← 5.1 YOLO 기초](01_yolo_basics.md) | [다음: 5.3 세그멘테이션 →](03_segmentation.md)
+[← 5.1 YOLO 기초](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/05_computer_vision/01_yolo_basics.md) | [다음: 5.3 세그멘테이션 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/05_computer_vision/03_segmentation.md)

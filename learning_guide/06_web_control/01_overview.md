@@ -491,4 +491,4 @@ console.log('API Response:', response.data)
 
 ---
 
-[← 6장 목차](README.md) | [다음: 6.2 서버 API 이해하기 →](02_server_api.md)
+[← 6장 목차](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/06_web_control/README.md) | [다음: 6.2 서버 API 이해하기 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/06_web_control/02_server_api.md)

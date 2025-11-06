@@ -1208,4 +1208,4 @@ class VRSettingsPanel {
 
 ---
 
-[← 7.3 WebRTC 통신](03_webrtc.md) | [다음: 7.5 데이터셋 기록 →](05_dataset_recording.md)
+[← 7.3 WebRTC 통신](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/07_vr_control/03_webrtc.md) | [다음: 7.5 데이터셋 기록 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/07_vr_control/05_dataset_recording.md)

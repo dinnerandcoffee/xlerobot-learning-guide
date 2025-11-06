@@ -1162,4 +1162,4 @@ def voice_command_household_system():
 
 ---
 
-[← 8.4 자율 네비게이션](04_navigation.md) | [다음: 8.6 다음 단계 →](06_next_steps.md)
+[← 8.4 자율 네비게이션](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/08_practice_projects/04_navigation.md) | [다음: 8.6 다음 단계 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/08_practice_projects/06_next_steps.md)

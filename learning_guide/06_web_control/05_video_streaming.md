@@ -978,4 +978,4 @@ class FrameDropper:
 
 ---
 
-[← 6.4 원격 제어 구현](04_remote_control.md) | [목차로 돌아가기](README.md)
+[← 6.4 원격 제어 구현](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/06_web_control/04_remote_control.md) | [목차로 돌아가기](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/06_web_control/README.md)

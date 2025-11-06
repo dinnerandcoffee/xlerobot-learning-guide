@@ -714,4 +714,4 @@ def test_set_ee_position():
 
 ---
 
-[← 6.1 개요](01_overview.md) | [다음: 6.3 클라이언트 구성 →](03_client_setup.md)
+[← 6.1 개요](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/06_web_control/01_overview.md) | [다음: 6.3 클라이언트 구성 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/06_web_control/03_client_setup.md)

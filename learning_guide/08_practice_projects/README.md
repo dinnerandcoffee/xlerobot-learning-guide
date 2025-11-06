@@ -13,12 +13,12 @@
 
 ## 📖 하위 섹션
 
-1. [프로젝트 1: 첫 시뮬레이션 실행](01_first_simulation.md)
-2. [프로젝트 2: 커스텀 제어 스크립트](02_custom_control.md)
-3. [프로젝트 3: 객체 픽앤플레이스](03_pick_and_place.md)
-4. [프로젝트 4: 자율 내비게이션](04_navigation.md)
-5. [프로젝트 5: 가정용 작업 자동화](05_household_tasks.md)
-6. [다음 단계 및 고급 주제](06_next_steps.md)
+1. [프로젝트 1: 첫 시뮬레이션 실행](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/08_practice_projects/01_first_simulation.md)
+2. [프로젝트 2: 커스텀 제어 스크립트](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/08_practice_projects/02_custom_control.md)
+3. [프로젝트 3: 객체 픽앤플레이스](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/08_practice_projects/03_pick_and_place.md)
+4. [프로젝트 4: 자율 내비게이션](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/08_practice_projects/04_navigation.md)
+5. [프로젝트 5: 가정용 작업 자동화](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/08_practice_projects/05_household_tasks.md)
+6. [다음 단계 및 고급 주제](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/08_practice_projects/06_next_steps.md)
 
 ## 🎯 학습 목표
 
@@ -48,4 +48,4 @@
 
 ---
 
-[← 7장. VR 제어](../07_vr_control/README.md) | [다음: 8.1 첫 시뮬레이션 →](01_first_simulation.md)
+[← 7장. VR 제어](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/07_vr_control/README.md) | [다음: 8.1 첫 시뮬레이션 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/08_practice_projects/01_first_simulation.md)

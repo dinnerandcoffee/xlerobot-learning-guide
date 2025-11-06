@@ -1049,4 +1049,4 @@ XLeRobot 커뮤니티와 모든 기여자들에게 감사드립니다.
 
 ---
 
-[← 8.5 가정용 작업](05_household_tasks.md) | [처음으로 ↑](../README.md)
+[← 8.5 가정용 작업](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/08_practice_projects/05_household_tasks.md) | [처음으로 ↑](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/README.md)

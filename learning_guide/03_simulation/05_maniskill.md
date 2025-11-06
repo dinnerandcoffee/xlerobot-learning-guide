@@ -709,9 +709,9 @@ env_kwargs = dict(
 
 ### 다음 단계
 
-- [3.6 URDF/MJCF 모델 →](06_robot_models.md): 로봇 모델 파일 구조 이해
-- [4장 하드웨어 →](../04_hardware/README.md): 실제 로봇 조립
+- [3.6 URDF/MJCF 모델 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/03_simulation/06_robot_models.md): 로봇 모델 파일 구조 이해
+- [4장 하드웨어 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/04_hardware/README.md): 실제 로봇 조립
 
 ---
 
-[← 3.4 Isaac Sim](04_isaac_sim.md) | [3장 목차](README.md) | [다음: 3.6 로봇 모델 →](06_robot_models.md)
+[← 3.4 Isaac Sim](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/03_simulation/04_isaac_sim.md) | [3장 목차](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/03_simulation/README.md) | [다음: 3.6 로봇 모델 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/03_simulation/06_robot_models.md)

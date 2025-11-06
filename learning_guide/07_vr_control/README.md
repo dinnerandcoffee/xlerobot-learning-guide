@@ -12,11 +12,11 @@ Meta Quest 3를 이용한 VR 텔레오퍼레이션을 학습합니다.
 
 ## 📖 하위 섹션
 
-1. [VR 텔레오퍼레이션 개요](01_vr_overview.md)
-2. [Quest3 VR 설정](02_quest3_setup.md)
-3. [WebRTC 통신](03_webrtc.md)
-4. [VR 인터페이스 사용하기](04_vr_interface.md)
-5. [데이터셋 레코딩](05_dataset_recording.md)
+1. [VR 텔레오퍼레이션 개요](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/07_vr_control/01_vr_overview.md)
+2. [Quest3 VR 설정](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/07_vr_control/02_quest3_setup.md)
+3. [WebRTC 통신](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/07_vr_control/03_webrtc.md)
+4. [VR 인터페이스 사용하기](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/07_vr_control/04_vr_interface.md)
+5. [데이터셋 레코딩](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/07_vr_control/05_dataset_recording.md)
 
 ## 🎯 학습 목표
 
@@ -42,4 +42,4 @@ Meta Quest 3를 이용한 VR 텔레오퍼레이션을 학습합니다.
 
 ---
 
-[← 6장. 웹 제어](../06_web_control/README.md) | [다음: 7.1 VR 개요 →](01_vr_overview.md)
+[← 6장. 웹 제어](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/06_web_control/README.md) | [다음: 7.1 VR 개요 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/07_vr_control/01_vr_overview.md)

@@ -237,4 +237,4 @@ YOLO의 8번째 버전. 현재 XLeRobot에서 사용.
 
 ---
 
-[← B. FAQ](faq.md) | [다음: D. 참고 자료 →](references.md)
+[← B. FAQ](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/appendix/faq.md) | [다음: D. 참고 자료 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/appendix/references.md)

@@ -157,4 +157,4 @@ Right Stick:
 
 - [Lekiwi 공식 문서](https://github.com/SIGRobotics-UIUC/LeKiwi)
 - [옴니휠 운동학](https://www.hindawi.com/journals/jr/2015/347379/)
-- [XLeRobot 텔레오퍼레이션](../../software/examples/4_xlerobot_teleop_keyboard.py)
+- [XLeRobot 텔레오퍼레이션](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/../software/examples/4_xlerobot_teleop_keyboard.py)

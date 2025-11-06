@@ -1138,4 +1138,4 @@ def interactive_navigation():
 
 ---
 
-[← 8.3 픽앤플레이스](03_pick_and_place.md) | [다음: 8.5 가정용 작업 →](05_household_tasks.md)
+[← 8.3 픽앤플레이스](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/08_practice_projects/03_pick_and_place.md) | [다음: 8.5 가정용 작업 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/08_practice_projects/05_household_tasks.md)

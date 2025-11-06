@@ -431,7 +431,7 @@ arch -arm64 brew install python@3.10
 - [ ] `Home` 키로 베이스 전진 확인
 - [ ] 60 FPS로 부드럽게 실행
 
-모두 체크되었다면 [3.3 MuJoCo 키보드 제어 →](03_mujoco_control.md)로 이동!
+모두 체크되었다면 [3.3 MuJoCo 키보드 제어 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/03_simulation/03_mujoco_control.md)로 이동!
 
 ---
 
@@ -453,4 +453,4 @@ arch -arm64 brew install python@3.10
 
 ---
 
-[← 3.1 시뮬레이션 개요](01_simulation_overview.md) | [3장 목차](README.md) | [다음: 3.3 키보드 제어 →](03_mujoco_control.md)
+[← 3.1 시뮬레이션 개요](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/03_simulation/01_simulation_overview.md) | [3장 목차](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/03_simulation/README.md) | [다음: 3.3 키보드 제어 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/03_simulation/03_mujoco_control.md)

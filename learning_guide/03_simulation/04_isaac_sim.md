@@ -705,9 +705,9 @@ simulation_app = SimulationApp({
 
 ### 다음 단계
 
-- [3.5 ManiSkill 환경 →](05_maniskill.md): 강화학습 전용 환경
-- [3.6 URDF/MJCF 모델 →](06_robot_models.md): 로봇 모델 파일 이해
+- [3.5 ManiSkill 환경 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/03_simulation/05_maniskill.md): 강화학습 전용 환경
+- [3.6 URDF/MJCF 모델 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/03_simulation/06_robot_models.md): 로봇 모델 파일 이해
 
 ---
 
-[← 3.3 키보드 제어](03_mujoco_control.md) | [3장 목차](README.md) | [다음: 3.5 ManiSkill →](05_maniskill.md)
+[← 3.3 키보드 제어](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/03_simulation/03_mujoco_control.md) | [3장 목차](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/03_simulation/README.md) | [다음: 3.5 ManiSkill →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/03_simulation/05_maniskill.md)

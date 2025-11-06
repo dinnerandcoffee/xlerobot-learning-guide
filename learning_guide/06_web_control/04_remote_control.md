@@ -991,4 +991,4 @@ export class CommandScheduler {
 
 ---
 
-[← 6.3 클라이언트 구성](03_client_setup.md) | [다음: 6.5 실시간 비디오 스트리밍 →](05_video_streaming.md)
+[← 6.3 클라이언트 구성](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/06_web_control/03_client_setup.md) | [다음: 6.5 실시간 비디오 스트리밍 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/06_web_control/05_video_streaming.md)

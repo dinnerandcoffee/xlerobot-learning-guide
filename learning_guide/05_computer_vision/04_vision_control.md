@@ -535,4 +535,4 @@ print(f"Translation: {t}")
 
 ---
 
-[← 5.3 세그멘테이션](03_segmentation.md) | [다음: 5.5 핸드 카메라 활용 →](05_hand_camera.md)
+[← 5.3 세그멘테이션](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/05_computer_vision/03_segmentation.md) | [다음: 5.5 핸드 카메라 활용 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/05_computer_vision/05_hand_camera.md)

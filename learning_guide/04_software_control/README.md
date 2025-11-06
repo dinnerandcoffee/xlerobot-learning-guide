@@ -12,13 +12,13 @@ XLeRobot을 다양한 방법으로 제어하는 소프트웨어를 학습합니�
 
 ## 📖 하위 섹션
 
-1. [소프트웨어 아키텍처](01_architecture.md)
-2. [키보드 제어 구현](02_keyboard_control.md)
-3. [조이스틱 제어 (Xbox)](03_joystick_control.md)
-4. [Switch Joycon 제어](04_joycon_control.md)
-5. [로봇 팔 운동학 (IK/FK)](05_kinematics.md)
-6. [듀얼암 협동 제어](06_dual_arm_control.md)
-7. [모바일 베이스 제어](07_mobile_base.md)
+1. [소프트웨어 아키텍처](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/04_software_control/01_architecture.md)
+2. [키보드 제어 구현](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/04_software_control/02_keyboard_control.md)
+3. [조이스틱 제어 (Xbox)](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/04_software_control/03_joystick_control.md)
+4. [Switch Joycon 제어](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/04_software_control/04_joycon_control.md)
+5. [로봇 팔 운동학 (IK/FK)](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/04_software_control/05_kinematics.md)
+6. [듀얼암 협동 제어](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/04_software_control/06_dual_arm_control.md)
+7. [모바일 베이스 제어](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/04_software_control/07_mobile_base.md)
 
 ## 🎯 학습 목표
 
@@ -39,4 +39,4 @@ XLeRobot을 다양한 방법으로 제어하는 소프트웨어를 학습합니�
 
 ---
 
-[← 3장. 시뮬레이션 환경](../03_simulation/README.md) | [다음: 4.1 소프트웨어 아키텍처 →](01_architecture.md)
+[← 3장. 시뮬레이션 환경](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/03_simulation/README.md) | [다음: 4.1 소프트웨어 아키텍처 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/04_software_control/01_architecture.md)

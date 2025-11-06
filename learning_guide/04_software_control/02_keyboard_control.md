@@ -500,7 +500,7 @@ EE_STEP = 0.005    # 5mm (권장)
 
 ## 참고 자료
 
-- [0_so100_keyboard_joint_control.py 전체 코드](../../software/examples/0_so100_keyboard_joint_control.py)
-- [1_so100_keyboard_ee_control.py 전체 코드](../../software/examples/1_so100_keyboard_ee_control.py)
+- [0_so100_keyboard_joint_control.py 전체 코드](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/../software/examples/0_so100_keyboard_joint_control.py)
+- [1_so100_keyboard_ee_control.py 전체 코드](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/../software/examples/1_so100_keyboard_ee_control.py)
 - [Python termios 문서](https://docs.python.org/3/library/termios.html)
-- [역기구학 상세 설명 → 4.5장](05_kinematics.md)
+- [역기구학 상세 설명 → 4.5장](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/04_software_control/05_kinematics.md)

@@ -266,7 +266,7 @@ Support Z Distance: 0.2mm
 
 ## 참고 자료
 
-- [XLeRobot .3mf 파일](../../hardware/XLeRobot_0_3_0.3mf)
+- [XLeRobot .3mf 파일](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/../hardware/XLeRobot_0_3_0.3mf)
 - [Cura 슬라이서](https://ultimaker.com/software/ultimaker-cura)
 - [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/)
 - [TPU 프린팅 가이드](https://www.simplify3d.com/support/materials-guide/flexible/)

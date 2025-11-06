@@ -570,4 +570,4 @@ cv2.imshow('Mask Overlay', vis)
 
 ---
 
-[← 5.2 객체 추적](02_object_tracking.md) | [다음: 5.4 비전 기반 로봇 제어 →](04_vision_control.md)
+[← 5.2 객체 추적](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/05_computer_vision/02_object_tracking.md) | [다음: 5.4 비전 기반 로봇 제어 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/05_computer_vision/04_vision_control.md)

@@ -1638,4 +1638,4 @@ class VRDatasetProcessor:
 
 ---
 
-[← 7.4 VR 인터페이스](04_vr_interface.md) | [메인 가이드로 돌아가기](../README.md)
+[← 7.4 VR 인터페이스](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/07_vr_control/04_vr_interface.md) | [메인 가이드로 돌아가기](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/README.md)

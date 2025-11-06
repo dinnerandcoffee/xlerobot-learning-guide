@@ -254,4 +254,4 @@ cd docs/en/source/
 
 ---
 
-[← 1.1 XLeRobot이란?](01_what_is_xlerobot.md) | [다음: 1.3 기술 스택 →](03_tech_stack.md)
+[← 1.1 XLeRobot이란?](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/01_overview/01_what_is_xlerobot.md) | [다음: 1.3 기술 스택 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/01_overview/03_tech_stack.md)

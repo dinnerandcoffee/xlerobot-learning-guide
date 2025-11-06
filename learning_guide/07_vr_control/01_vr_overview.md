@@ -671,4 +671,4 @@ describe('VR Coordinate Transform', () => {
 
 ---
 
-[← 7장 목차](README.md) | [다음: 7.2 Quest3 VR 설정 →](02_quest3_setup.md)
+[← 7장 목차](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/07_vr_control/README.md) | [다음: 7.2 Quest3 VR 설정 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/07_vr_control/02_quest3_setup.md)

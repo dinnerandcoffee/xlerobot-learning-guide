@@ -12,11 +12,11 @@
 
 ## 📖 하위 섹션
 
-1. [웹 제어 시스템 개요](01_overview.md)
-2. [서버 API 이해하기](02_server_api.md)
-3. [클라이언트 구성](03_client_setup.md)
-4. [원격 제어 구현](04_remote_control.md)
-5. [실시간 비디오 스트리밍](05_video_streaming.md)
+1. [웹 제어 시스템 개요](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/06_web_control/01_overview.md)
+2. [서버 API 이해하기](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/06_web_control/02_server_api.md)
+3. [클라이언트 구성](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/06_web_control/03_client_setup.md)
+4. [원격 제어 구현](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/06_web_control/04_remote_control.md)
+5. [실시간 비디오 스트리밍](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/06_web_control/05_video_streaming.md)
 
 ## 🎯 학습 목표
 
@@ -38,4 +38,4 @@ XLeRobot (하드웨어)
 
 ---
 
-[← 5장. 컴퓨터 비전](../05_computer_vision/README.md) | [다음: 6.1 웹 제어 개요 →](01_overview.md)
+[← 5장. 컴퓨터 비전](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/05_computer_vision/README.md) | [다음: 6.1 웹 제어 개요 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/06_web_control/01_overview.md)

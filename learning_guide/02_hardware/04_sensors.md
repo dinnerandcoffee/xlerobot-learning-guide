@@ -208,4 +208,4 @@ realsense-viewer
 
 - [RealSense SDK](https://github.com/IntelRealSense/librealsense)
 - [OpenCV Python](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
-- [XLeRobot 카메라 설정](../../software/src/robots/xlerobot/config_xlerobot.py)
+- [XLeRobot 카메라 설정](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/../software/src/robots/xlerobot/config_xlerobot.py)

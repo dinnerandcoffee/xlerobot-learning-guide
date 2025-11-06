@@ -138,5 +138,5 @@ j2, j3 = kin.inverse_kinematics(x, y)
 ## 참고 자료
 
 - [SO-101 GitHub](https://github.com/TheRobotStudio/SO-ARM100)
-- [XLeRobot SO101Robot.py](../../software/src/model/SO101Robot.py)
+- [XLeRobot SO101Robot.py](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/../software/src/model/SO101Robot.py)
 - [Feetech STS3215 데이터시트](https://www.feetechrc.com/)

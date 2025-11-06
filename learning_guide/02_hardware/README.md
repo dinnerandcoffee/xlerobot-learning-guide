@@ -13,12 +13,12 @@ XLeRobot의 물리적 구성 요소와 하드웨어 설계를 학습합니다.
 
 ## 📖 하위 섹션
 
-1. [부품 목록 (BOM)](01_bill_of_materials.md)
-2. [SO-100/SO-101 로봇 팔](02_robot_arm.md)
-3. [모바일 베이스 및 옴니휠](03_mobile_base.md)
-4. [카메라 및 센서 시스템](04_sensors.md)
-5. [3D 프린팅 가이드](05_3d_printing.md)
-6. [하드웨어 조립 가이드](06_assembly.md)
+1. [부품 목록 (BOM)](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/02_hardware/01_bill_of_materials.md)
+2. [SO-100/SO-101 로봇 팔](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/02_hardware/02_robot_arm.md)
+3. [모바일 베이스 및 옴니휠](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/02_hardware/03_mobile_base.md)
+4. [카메라 및 센서 시스템](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/02_hardware/04_sensors.md)
+5. [3D 프린팅 가이드](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/02_hardware/05_3d_printing.md)
+6. [하드웨어 조립 가이드](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/02_hardware/06_assembly.md)
 
 ## 🎯 학습 목표
 
@@ -43,4 +43,4 @@ XLeRobot의 물리적 구성 요소와 하드웨어 설계를 학습합니다.
 
 ---
 
-[← 1.4 개발 환경 설정](../01_overview/04_dev_environment.md) | [다음: 2.1 부품 목록 →](01_bill_of_materials.md)
+[← 1.4 개발 환경 설정](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/01_overview/04_dev_environment.md) | [다음: 2.1 부품 목록 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/02_hardware/01_bill_of_materials.md)

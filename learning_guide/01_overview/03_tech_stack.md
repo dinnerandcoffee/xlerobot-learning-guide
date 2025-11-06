@@ -410,4 +410,4 @@ brew install libusb hidapi
 
 ---
 
-[← 1.2 프로젝트 구조](02_project_structure.md) | [다음: 1.4 개발 환경 설정 →](04_dev_environment.md)
+[← 1.2 프로젝트 구조](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/01_overview/02_project_structure.md) | [다음: 1.4 개발 환경 설정 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/01_overview/04_dev_environment.md)

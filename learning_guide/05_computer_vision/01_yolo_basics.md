@@ -497,4 +497,4 @@ print(f"Device: {next(model.model.parameters()).device}")
 
 ---
 
-[← 5장 목차](README.md) | [다음: 5.2 실시간 객체 추적 →](02_object_tracking.md)
+[← 5장 목차](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/05_computer_vision/README.md) | [다음: 5.2 실시간 객체 추적 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/05_computer_vision/02_object_tracking.md)

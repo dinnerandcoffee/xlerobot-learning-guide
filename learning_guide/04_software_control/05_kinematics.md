@@ -477,5 +477,5 @@ def numerical_ik(x_target, y_target, z_target,
 
 - [DH 파라미터 설명](https://en.wikipedia.org/wiki/Denavit%E2%80%93Hartenberg_parameters)
 - [IK 알고리즘 비교](https://robotics.stackexchange.com/questions/164/inverse-kinematics)
-- [SO-101 URDF 파일](../../hardware/)
+- [SO-101 URDF 파일](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/../hardware)
 - [Python robotics 라이브러리](https://github.com/AtsushiSakai/PythonRobotics)

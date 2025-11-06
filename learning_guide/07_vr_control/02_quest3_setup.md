@@ -754,4 +754,4 @@ wss.on('connection', (ws) => {
 
 ---
 
-[← 7.1 VR 개요](01_vr_overview.md) | [다음: 7.3 WebRTC 통신 →](03_webrtc.md)
+[← 7.1 VR 개요](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/07_vr_control/01_vr_overview.md) | [다음: 7.3 WebRTC 통신 →](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/07_vr_control/03_webrtc.md)
