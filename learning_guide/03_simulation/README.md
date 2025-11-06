@@ -15,8 +15,8 @@
 1. [시뮬레이션 개요](01_simulation_overview.md)
 2. [MuJoCo 시뮬레이션 시작하기](02_mujoco_setup.md)
 3. [MuJoCo 키보드 제어](03_mujoco_control.md)
-4. [Isaac Sim 설정](04_isaac_sim_setup.md)
-5. [ManiSkill 환경](05_maniskill_env.md)
+4. [Isaac Sim 설정](04_isaac_sim.md)
+5. [ManiSkill 환경](05_maniskill.md)
 6. [URDF/MJCF 모델 이해](06_robot_models.md)
 
 ## 🎯 학습 목표
