@@ -22,13 +22,13 @@ XLeRobot 프로젝트를 체계적으로 학습하기 위한 완전한 한국어
 
 ### 제1부: 시작하기
 
-#### [1장. 프로젝트 개요](01_overview/README.md)
-- [1.1 XLeRobot이란?](01_overview/01_what_is_xlerobot.md)
-- [1.2 프로젝트 구조 이해하기](01_overview/02_project_structure.md)
-- [1.3 기술 스택 및 의존성](01_overview/03_tech_stack.md)
-- [1.4 개발 환경 설정](01_overview/04_dev_environment.md)
+#### [1장. 프로젝트 개요](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/01_overview/README.md)
+- [1.1 XLeRobot이란?](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/01_overview/01_what_is_xlerobot.md)
+- [1.2 프로젝트 구조 이해하기](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/01_overview/02_project_structure.md)
+- [1.3 기술 스택 및 의존성](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/01_overview/03_tech_stack.md)
+- [1.4 개발 환경 설정](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/01_overview/04_dev_environment.md)
 
-#### [2장. 하드웨어 구성](02_hardware/README.md)
+#### [2장. 하드웨어 구성](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/02_hardware/README.md)
 - 부품 목록 (BOM)
 - SO-100/SO-101 로봇 팔
 - 모바일 베이스 및 옴니휠
@@ -36,7 +36,7 @@ XLeRobot 프로젝트를 체계적으로 학습하기 위한 완전한 한국어
 
 ### 제2부: 시뮬레이션
 
-#### [3장. 시뮬레이션 환경](03_simulation/README.md)
+#### [3장. 시뮬레이션 환경](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/03_simulation/README.md)
 - MuJoCo 시뮬레이션
 - Isaac Sim 설정
 - ManiSkill 환경
@@ -44,31 +44,31 @@ XLeRobot 프로젝트를 체계적으로 학습하기 위한 완전한 한국어
 
 ### 제3부: 소프트웨어 제어
 
-#### [4장. 기본 소프트웨어 제어](04_software_control/README.md)
+#### [4장. 기본 소프트웨어 제어](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/04_software_control/README.md)
 - 키보드/조이스틱/Joycon 제어
 - 로봇 팔 운동학 (IK/FK)
 - 듀얼암 협동 제어
 
 ### 제4부: 고급 기능
 
-#### [5장. 컴퓨터 비전 통합](05_computer_vision/README.md)
+#### [5장. 컴퓨터 비전 통합](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/05_computer_vision/README.md)
 - YOLO 객체 감지
 - 실시간 객체 추적
 - 비전 기반 로봇 제어
 
-#### [6장. 웹 제어 인터페이스](06_web_control/README.md)
+#### [6장. 웹 제어 인터페이스](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/06_web_control/README.md)
 - FastAPI 서버 API
 - Vue.js/React 클라이언트
 - 원격 제어 구현
 
-#### [7장. VR 제어 시스템](07_vr_control/README.md)
+#### [7장. VR 제어 시스템](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/07_vr_control/README.md)
 - Quest3 VR 설정
 - WebRTC 통신
 - 데이터셋 레코딩
 
 ### 제5부: 실습 및 응용
 
-#### [8장. 실습 프로젝트](08_practice_projects/README.md)
+#### [8장. 실습 프로젝트](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/08_practice_projects/README.md)
 - 첫 시뮬레이션 실행
 - 커스텀 제어 스크립트
 - 객체 픽앤플레이스
@@ -76,10 +76,10 @@ XLeRobot 프로젝트를 체계적으로 학습하기 위한 완전한 한국어
 
 ### 부록
 
-- [A. 트러블슈팅 가이드](appendix/troubleshooting.md)
-- [B. FAQ](appendix/faq.md)
-- [C. 용어집](appendix/glossary.md)
-- [D. 참고 자료](appendix/references.md)
+- [A. 트러블슈팅 가이드](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/appendix/troubleshooting.md)
+- [B. FAQ](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/appendix/faq.md)
+- [C. 용어집](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/appendix/glossary.md)
+- [D. 참고 자료](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/appendix/references.md)
 
 ## 🚀 빠른 시작
 
@@ -90,8 +90,8 @@ XLeRobot 프로젝트를 체계적으로 학습하기 위한 완전한 한국어
    ```
 
 2. **학습 시작**
-   - [전체 목차 보기](00_table_of_contents.md)
-   - [1장부터 시작하기](01_overview/README.md)
+   - [전체 목차 보기](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/00_table_of_contents.md)
+   - [1장부터 시작하기](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/01_overview/README.md)
 
 3. **WikiDocs 온라인 버전** (준비 중)
    - 더 편한 온라인 읽기 환경

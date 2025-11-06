@@ -131,7 +131,7 @@
 이 학습 가이드는 오픈소스 프로젝트입니다. 개선 사항이나 오류를 발견하시면 GitHub에서 이슈를 열거나 PR을 제출해주세요.
 
 - GitHub: https://github.com/Vector-Wangel/XLeRobot
-- 문서 기여: [CONTRIBUTING.md](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/learning_guide/../CONTRIBUTING.md)
+- 문서 기여: [CONTRIBUTING.md](https://github.com/dinnerandcoffee/xlerobot-learning-guide/blob/main/CONTRIBUTING.md)
 
 ---
 
